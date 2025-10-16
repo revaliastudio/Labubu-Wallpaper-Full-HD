@@ -11,7 +11,7 @@
       "backup_ads_intertitial":"",
       "open_ads_admob":"ca-app-pub-7615880214648928/8722493003",
       "open_ads_alien":"",
-      "open_ads_max":"",
+      "open_ads_max":"1",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -480,6 +480,356 @@
       "wallpaper_name": "Labubu 64",
       "wallpaper_type": "GIF",
       "wallpaper_url": "https://i.pinimg.com/originals/3e/3a/22/3e3a22c75854c46883ed3c4ac3d08866.gif"
+    },
+	{
+      "id": 65,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 65",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/e2/75/9d/e2759dba7428bb0319b758788b21987b.jpg"
+    },
+	{
+      "id": 66,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 66",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/b0/ac/b1/b0acb1b0e4571d11d7df7bf81bf8b207.jpg"
+    },
+	{
+      "id": 67,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 67",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/2c/3e/ec/2c3eec35c19a1c9f56da85d5f435256f.jpg"
+    },
+	{
+      "id": 68,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 68",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/88/18/e8/8818e89572f5b5d994d7d1b86dac7287.jpg"
+    },
+	{
+      "id": 69,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 69",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/e6/bf/17/e6bf173fa92c432294642bcbd5c49d49.jpg"
+    },
+	{
+      "id": 70,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 70",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/2b/e0/df/2be0df6fe02902031f43a44142f21a12.jpg"
+    },
+	{
+      "id": 71,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 71",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/96/b7/df/96b7dff873bbecd8c58694fe9027a375.jpg"
+    },
+	{
+      "id": 72,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 72",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/4b/b3/35/4bb3359ea64cdcadd0536878e3e75ab4.jpg"
+    },
+	{
+      "id": 73,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 73",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/f2/f9/1f/f2f91fd44b5807aefd89457728594f63.jpg"
+    },
+	{
+      "id": 74,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 74",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/3b/ec/a6/3beca6767dc28b21f09127da52850549.jpg"
+    },
+	{
+      "id": 75,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 75",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/7f/2b/a7/7f2ba7578de3ce69846a71b8bc9c8c85.jpg"
+    },
+	{
+      "id": 76,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 76",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/1a/85/a4/1a85a4ce99662160a86f225a19c28f05.jpg"
+    },
+	{
+      "id": 77,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 77",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/0b/85/de/0b85de4be61bddef2728de3321c5eb14.jpg"
+    },
+	{
+      "id": 78,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 78",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/e2/d1/30/e2d130250510e2a56c2748cfffb361a4.jpg"
+    },
+	{
+      "id": 79,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 79",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/99/84/1f/99841faa49a7840033aa499b07599a5c.jpg"
+    },
+	{
+      "id": 80,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 80",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/be/68/48/be684812173bd42a50f0f73088102956.jpg"
+    },
+	{
+      "id": 81,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 81",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/33/82/fa/3382fa038c5bf16d0d304d3859e9e593.jpg"
+    },
+	{
+      "id": 82,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 82",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/dc/f4/a3/dcf4a339ab1ce4174918bf6a9fb4c393.jpg"
+    },
+	{
+      "id": 83,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 83",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/f6/ed/9f/f6ed9fedd3e122e1cf3241ac7897fbed.jpg"
+    },
+	{
+      "id": 84,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 84",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/23/32/ba/2332ba9603f0ca6d44867bc8d90ee5e4.jpg"
+    },
+	{
+      "id": 85,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 85",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/51/e3/4f/51e34f02f477394c29c6a4f284bf94c4.jpg"
+    },
+	{
+      "id": 86,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 86",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/a7/0e/2d/a70e2dac09b31c9258516d5182a4f4b2.jpg"
+    },
+	{
+      "id": 87,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 87",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/74/df/27/74df273913653180391963f981d90bfa.jpg"
+    },
+	{
+      "id": 88,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 88",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/86/81/e2/8681e2b5aafeb77b13ecff418c7daf8c.jpg"
+    },
+	{
+      "id": 89,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 89",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/0b/86/0c/0b860ce5a7c90f18857113a397ecfa8a.jpg"
+    },
+	{
+      "id": 90,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 90",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/92/e6/27/92e627a21b0e33666834112f14c3beb2.jpg"
+    },
+	{
+      "id": 91,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 91",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/1200x/03/12/f7/0312f763a63a0eef6bceab0ca84f027a.jpg"
+    },
+	{
+      "id": 92,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 92",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/f8/13/af/f813afc66fb88651d8b459ab49b7ef11.jpg"
+    },
+	{
+      "id": 93,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 93",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/58/95/d5/5895d58a5fe86e0010e2054d3cdedae7.jpg"
+    },
+	{
+      "id": 94,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 94",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/88/8d/aa/888daabc7a9fe1db3ded63e13f86fe6c.jpg"
+    },
+	{
+      "id": 95,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 95",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/1c/be/3e/1cbe3e85ad2a1c69f8b34b374beb846c.jpg"
+    },
+	{
+      "id": 96,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 96",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/7c/73/e1/7c73e10e7b7b84e588cf4fab5e48f3f8.jpg"
+    },
+	{
+      "id": 97,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 97",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/1a/23/22/1a2322e7ee20f6285809c6c22ab8bf0f.jpg"
+    },
+	{
+      "id": 98,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 98",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/93/e5/ec/93e5ec7c50a8068981b5ba6c01df0034.jpg"
+    },
+	{
+      "id": 99,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 99",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/91/07/9d/91079db4599b473504288d1b06b1f8c8.jpg"
+    },
+	{
+      "id": 100,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 100",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/96/35/55/963555f8cc3a9368ff758a5a6f3c8575.jpg"
+    },
+	{
+      "id": 101,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 101",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/d7/d0/e7/d7d0e73cdda5824d62ba6f093e838f18.jpg"
+    },
+	{
+      "id": 102,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 102",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/30/77/83/307783ea7ec7ab1a93752989b07e6966.jpg"
+    },
+	{
+      "id": 103,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 103",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/93/e5/ec/93e5ec7c50a8068981b5ba6c01df0034.jpg"
+    },
+	{
+      "id": 104,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 104",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/d4/14/8f/d4148fd4ddc041e1ea7428771adb8718.jpg"
+    },
+	{
+      "id": 105,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 105",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/a7/2c/be/a72cbef2c612e6c0e50beca08bba84d4.jpg"
+    },
+	{
+      "id": 106,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 106",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/2c/3e/ec/2c3eec35c19a1c9f56da85d5f435256f.jpg"
+    },
+	{
+      "id": 107,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 107",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/03/fb/01/03fb0177f3fa6828bd82fb02d0721267.jpg"
+    },
+	{
+      "id": 108,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 108",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/70/ba/84/70ba84cf9c58a7607058bb648d5a8d7d.jpg"
+    },
+	{
+      "id": 109,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 109",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/61/ad/c5/61adc5d37fc718ae3afc063645acdfc6.jpg"
+    },
+	{
+      "id": 110,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 110",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/2f/ed/a2/2feda2dee84c162eb6338eac33649f27.jpg"
+    },
+	{
+      "id": 111,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 111",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/b9/15/43/b915439aa406ad28e677dd765ee31f6b.jpg"
+    },
+	{
+      "id": 112,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 112",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/9a/db/8a/9adb8ac9d7ef665b02c70cdd926c8dd5.jpg"
+    },
+	{
+      "id": 113,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 113",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/81/38/34/8138345fb8e3e270208a9119f7db43e2.jpg"
+    },
+	{
+      "id": 114,
+      "name_category": "Labubu",
+      "wallpaper_name": "Labubu 114",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/bf/ca/8f/bfca8f11f98f977363737395a6a92049.jpg"
     }
     
   ]
